@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4931e330-cc65-4772-bab9-01f968d8b933" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/helloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-news-java-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com/technews/technewsjavaapi/TechNewsJavaApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/technews/technewsjavaapi/TechNewsJavaApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/helloWorld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,26 +31,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/olope/Documents/UCF/technews/tech-news-java-api/src/main/java/com.technews",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/olope/Documents/UCF/technews/tech-news-java-api/src/main/java/com.technews&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\olope\Documents\UCF\technews\tech-news-java-api\src\main\java\com.technews" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olope\Documents\UCF\technews\tech-news-java-api\src\main\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="run helloWorld.java" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +74,10 @@
       <workItem from="1693063019291" duration="6736000" />
       <workItem from="1693070105340" duration="472000" />
       <workItem from="1693070589119" duration="443000" />
-      <workItem from="1693176208977" duration="1694000" />
+      <workItem from="1693176208977" duration="4548000" />
+      <workItem from="1693250714565" duration="111000" />
+      <workItem from="1693267250267" duration="3625000" />
+      <workItem from="1693334354100" duration="533000" />
     </task>
     <servers />
   </component>
