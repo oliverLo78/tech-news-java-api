@@ -1,4 +1,7 @@
 package src.main.java.com.technews.testModel;
+
+import java.util.Objects;
+
 // Demo class
 public class Demo {
     private String name;
@@ -14,10 +17,13 @@ public class Demo {
         this.age = age;
     }
     // same goes for creating getters and setters via IntelliJ
+    // the name of each method is preceded by public or private
+    // and then by a return type
     public String getName() {
         return name;
     }
-
+    // If the method doesn't need to return a value, then we can use
+    // void keyword in place of a return type
     public void setName(String name) {
         this.name = name;
     }
@@ -28,5 +34,35 @@ public class Demo {
 
     public void setAge(int age) {
         this.age = age;
+    }
+    // using the equals() method to compare two objects. This method
+    // compares objects by hash code(or reference number) rather than value
+    // Thus, two distinct objects with the same value would be interpreted as
+    // NOT equal.
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Demo demo = (Demo) o;
+        return age == demo.age && Objects.equals(name, demo.name);
+    }
+
+    // Override that functionality so that equals() compares objects
+    // based on values but also override hashCode() when we do that
+    // because it is closely linked
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age);
+    }
+    // notice the @Override annotation at the top of each of the methods
+    // When you see the @Override annotation on a method it means that the
+    // method is coming to the class from a superclass. The @Override
+    // annotation isn't required, but it is best practice to include it.
+    @Override
+    public String toString() {
+        return "Demo{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
     }
 }

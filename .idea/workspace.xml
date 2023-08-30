@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4931e330-cc65-4772-bab9-01f968d8b933" name="Changes" comment="" />
+    <list default="true" id="4931e330-cc65-4772-bab9-01f968d8b933" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/testModel/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/testModel/Demo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +157,7 @@
       <workItem from="1693339361716" duration="232000" />
       <workItem from="1693340291053" duration="619000" />
       <workItem from="1693404851649" duration="2555000" />
-      <workItem from="1693407420699" duration="4099000" />
+      <workItem from="1693407420699" duration="5561000" />
     </task>
     <servers />
   </component>
