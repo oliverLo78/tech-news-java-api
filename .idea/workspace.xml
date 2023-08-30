@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4931e330-cc65-4772-bab9-01f968d8b933" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-news-java-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/technews/technewsjavaapi/TechNewsJavaApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/main/java/com/technews/technewsjavaapi/TechNewsJavaApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-news-java-api/src/test/java/com/technews/technewsjavaapi/TechNewsJavaApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech-news-java-api/src/test/java/com/technews/technewsjavaapi/TechNewsJavaApiApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="4931e330-cc65-4772-bab9-01f968d8b933" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,11 +155,22 @@
       <workItem from="1693339361716" duration="232000" />
       <workItem from="1693340291053" duration="619000" />
       <workItem from="1693404851649" duration="2555000" />
-      <workItem from="1693407420699" duration="3758000" />
+      <workItem from="1693407420699" duration="4099000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tech-news-java-api/src/main/java/com.technews/VariablesPractice.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
