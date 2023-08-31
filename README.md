@@ -56,3 +56,14 @@ Next you’ll install IntelliJ IDEA to use as your code editor. Complete the fol
 Great work. You've installed IntelliJ IDEA! Note that on the first launch of IntelliJ IDEA, it will ask you to choose some settings. In the bottom left of that screen, choose the Set Defaults option.
 
 [For further guidance, watch this](https://www.youtube.com/watch?v=JOc9lVFVQso).
+
+## Create the Spring Boot Java Project
+Although we've installed all the required technology, we still have some setup to do. For one thing, we have to create the Spring Boot project. We'll use the application Spring Initializr to help do that. Spring Initializr's user interface allows us to select the configuration variables and dependencies that we need for a project.
+
+Dependencies are bundled into groups of libraries that address certain common tasks. Let's consider, then, some of the tasks that we'll tackle for this project: we'll create an API that will connect to a MySQL database, and we'll use an ORM to map Java objects to the database tables, perform session management, and present HTML template pages to the API's users. We'll need to keep these tasks in mind while setting up the project because we'll select dependency bundles based on those needs.
+
+Now to get started with Spring Initializr! Open your browser and navigate to the [Spring Initializr website](https://start.spring.io/). On that webpage, you'll have to choose from a series of settings and other options to initialize your project. Use the following instructions to complete the form:
+
+
+
+
