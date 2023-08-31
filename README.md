@@ -27,3 +27,32 @@ A setup window titled "Welcome to Java" includes Cancel and Install buttons at t
 9. Once again, choose the installation directory.
 
 10. Click Next. When the Complete page appears, you've successfully installed Java!
+
+## Install IntelliJ IDEA for Windows
+Next you’ll install IntelliJ IDEA to use as your code editor. Complete the following steps:
+
+1. Navigate to the IntelliJ IDEA download page.
+
+2. Download the Community Edition.
+
+3. Run the install file.
+
+4. On the first setup page, choose Next.
+
+5. Select the destination folder and click Next.
+
+6. Mark the "Update PATH variable option", create the ".java" association, and click Next.
+
+7. Click Install.
+
+8. Choose your preferred option for when to reboot.
+
+9. Once you've rebooted, launch IntelliJ.
+
+10. Accept the Privacy Policy and continue.
+
+11. This final step is left to your own discretion. You can either choose to send usage statistics or choose the "Don't send" option to keep from sharing data.
+
+Great work. You've installed IntelliJ IDEA! Note that on the first launch of IntelliJ IDEA, it will ask you to choose some settings. In the bottom left of that screen, choose the Set Defaults option.
+
+[For further guidance, watch this](https://www.youtube.com/watch?v=JOc9lVFVQso).
