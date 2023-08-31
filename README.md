@@ -108,4 +108,4 @@ The next step is to create a repository for the project. Open your browser, navi
 
 After you've created the repo, copy the Git remote from the repository page on GitHub, as you've done for previous projects—you'll use this command in just a moment. This code should look like the following example:
 
-```git remote add origin git@github.com:username/tech-news-java-api.git```
+        ```git remote add origin git@github.com:username/tech-news-java-api.git```
