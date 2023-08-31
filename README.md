@@ -64,38 +64,38 @@ Dependencies are bundled into groups of libraries that address certain common ta
 
 Now to get started with Spring Initializr! Open your browser and navigate to the [Spring Initializr website](https://start.spring.io/). On that webpage, you'll have to choose from a series of settings and other options to initialize your project. Use the following instructions to complete the form:
 
-  -In the Project section, select Maven Project (the default).
+    -In the Project section, select Maven Project (the default).
 
-  -In the Language section, select Java (the default).
+    -In the Language section, select Java (the default).
 
-  -In the Spring Boot section, select version 2.6.4 (or whatever the default version is).
+    -In the Spring Boot section, select version 2.6.4 (or whatever the default version is).
 
-  -In the Project Metadata section, input the following information:
+    -In the Project Metadata section, input the following information:
 
 Group: com.technews
 
-  *Artifact: tech-news-java-api
+    *Artifact: tech-news-java-api
 
-  *Name: tech-news-java-api
+    *Name: tech-news-java-api
 
-  *Description: Tech News Java API Project
+    *Description: Tech News Java API Project
 
-  *Package Name: com.technews
+    *Package Name: com.technews
 
-  *Packaging: Jar (default)
+    *Packaging: Jar (default)
 
 Java: 8
 
 In the Dependencies section on the right side of the page, click the Add Dependencies button. Then search for and add the following dependencies:
 
-  +Spring Web
+    +Spring Web
 
-  +Spring Data JPA
+    +Spring Data JPA
 
-  +MySQL Driver
+    +MySQL Driver
 
-  +Spring Session
+    +Spring Session
 
-  +Thymeleaf
+    +Thymeleaf
 
 
