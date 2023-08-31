@@ -17,4 +17,5 @@ Run the install file.
 On the first setup page, click Install, as shown in the following image:
 
 ![300-install-1](https://github.com/oliverLo78/tech-news-java-api/assets/109435666/9fc05eb1-c02d-43bd-bc0e-5cef881f9337)
+
 A setup window titled "Welcome to Java" includes Cancel and Install buttons at the bottom.
